@@ -1,3 +1,0 @@
-instrument_name,expiration,strike,option_type,price,amount,direction,timestamp
-BTC-25JUL25-115000-C,2025-07-25 08:00:00,115000.0,call,0.03,0.1,sell,2025-05-06 13:23:17.716
-BTC-25JUL25-115000-C,2025-07-25 08:00:00,115000.0,call,0.0315,0.1,buy,2025-05-06 17:17:49.593

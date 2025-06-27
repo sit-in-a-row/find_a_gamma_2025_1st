@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2021-04-30",
+    "act_symbol": "SPY",
+    "hv_current": "0.1083",
+    "hv_week_ago": "0.1162",
+    "hv_month_ago": "0.1674",
+    "hv_year_high": "0.5070",
+    "hv_year_high_date": "2020-05-01",
+    "hv_year_low": "0.0968",
+    "hv_year_low_date": "2020-08-27",
+    "iv_current": "0.1449",
+    "iv_week_ago": "0.1392",
+    "iv_month_ago": "0.1519",
+    "iv_year_high": "0.3504",
+    "iv_year_high_date": "2020-10-28",
+    "iv_year_low": "0.1279",
+    "iv_year_low_date": "2021-04-16"
+  }
+]

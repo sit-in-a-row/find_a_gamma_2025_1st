@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2019-11-09",
+    "act_symbol": "SPY",
+    "hv_current": "0.1160",
+    "hv_week_ago": "0.1211",
+    "hv_month_ago": "0.1265",
+    "hv_year_high": "0.2923",
+    "hv_year_high_date": "2019-01-04",
+    "hv_year_low": "0.0730",
+    "hv_year_low_date": "2019-05-06",
+    "iv_current": "0.1015",
+    "iv_week_ago": "0.1013",
+    "iv_month_ago": "0.1725",
+    "iv_year_high": "0.3157",
+    "iv_year_high_date": "2018-12-24",
+    "iv_year_low": "0.0971",
+    "iv_year_low_date": "2019-04-12"
+  }
+]

@@ -1,2 +1,0 @@
-instrument_name,expiration,strike,option_type,price,amount,direction,timestamp
-BTC-30MAY25-40000-P,2025-05-30 08:00:00,40000.0,put,0.0001,0.8,buy,2025-05-06 06:30:35.376
